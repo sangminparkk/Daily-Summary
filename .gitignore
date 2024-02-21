@@ -1,0 +1,5 @@
+# draft
+.idea
+**/bin/
+node_modules
+out
